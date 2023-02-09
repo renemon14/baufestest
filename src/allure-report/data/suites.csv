@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 09 02:39:21 ART 2023","Thu Feb 09 02:39:24 ART 2023","2755","","","","","","Search pet",""
+"passed","Thu Feb 09 02:39:18 ART 2023","Thu Feb 09 02:39:21 ART 2023","2853","","","","","","Add pet",""
+"passed","Thu Feb 09 02:39:04 ART 2023","Thu Feb 09 02:39:09 ART 2023","4731","","","","","","Register user",""
+"passed","Thu Feb 09 02:39:09 ART 2023","Thu Feb 09 02:39:18 ART 2023","9403","","","","","","Add a laptop to cart",""
+"passed","Thu Feb 09 02:39:24 ART 2023","Thu Feb 09 02:39:29 ART 2023","4929","","","","","","Modify pet",""
